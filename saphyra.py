@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------------------------
-# Saphyra - DDoS Tool
+# CYNA-BIT - DDoS Tool
 #
 # The DDoS Protocol is the most massive type of attack
 # This tool can tangodown nasa and more gov websites
